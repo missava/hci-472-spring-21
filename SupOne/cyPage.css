@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.bg-dark {
+	
+	background-color: #ab2200 !important;
+	
+}
+
+.text-container {
+	
+	
+	max-width:  1200px;
+}
+
+.front-page-text {
+	
+	padding-top: 20px;
+}
+
+.footer {
+	
+	background-color: #ab2200;
+	height: 60px;
+	color: #fff;
+	font-size:  .8rem;
+	text-align: center;
+	padding-top: 20px;
+	
+}
+
+.control-width  {
+	max-width: 1200px;
+	
+}
+
+.card-container {
+	
+	padding-bottom: 20px;
+}
+
+
+.card-footer-cy {
+	
+	height: 60px;
+}
+
+/*I preferred to use btn-outline-dark for my stylings instead of overwriting the bootstrap.  I liked how it looked*/
+
+.modal-content {
+	
+	text-align: center;
+}
