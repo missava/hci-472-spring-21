@@ -52,3 +52,16 @@
 	
 	text-align: center;
 }
+
+
+/*For accordion margins on sub page used bootstrap classes mb-5 and mt-5 for margins around insttead of making a class*/
+
+
+
+.accordion-button:not(.collapsed) {
+	
+	background-color: #eeeeee;
+	color: #ab2200;
+	
+}
+
