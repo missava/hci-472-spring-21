@@ -60,8 +60,8 @@
 
 .accordion-button:not(.collapsed) {
 	
-	background-color: #eeeeee;
-	color: #ab2200;
+	background-color: #eeeeee !important;
+	color: #ab2200 !important;
 	
 }
 
