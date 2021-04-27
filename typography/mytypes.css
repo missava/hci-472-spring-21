@@ -11,6 +11,14 @@
 
 html {font-size: 100%;} /*16px*/
 
+
+.generalfont {
+	
+	
+	font-family: Arial, sans-serif;
+	
+}
+
 .publicsans {
   background: white;
   font-family: 'Public Sans', sans-serif;
