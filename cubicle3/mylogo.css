@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+html {
+	
+	font-family: 'Assistant', sans-serif;
+}
+
+
+.deco {
+	
+	padding-bottom: 100px;
+	
+	
+	
+	
+}
+
+
+.barLogo {
+	
+	
+	width:65px;
+	height: 32.708px;
+	
+
+	
+}
+
+
+
+.mainLogo {
+
+	
+	
+}
+
+
+.bg-yellow {
+	
+	
+	background-color:	#f6d300;
+}
