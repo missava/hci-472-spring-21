@@ -11,7 +11,8 @@ html {
 
 .deco {
 	
-	padding-bottom: 100px;
+	padding: 50px 50px;
+	border-bottom: 1px solid lightgray;
 	
 	
 	
@@ -44,3 +45,31 @@ html {
 	
 	background-color:	#f6d300;
 }
+
+
+.logo-primary {background-color: #262262;}
+.logo-primary-2 {background-color: #8DC63F;}
+.logo-secondary-1{background-color: #000000;}
+.logo-secondary-2{background-color: #a7a9ac;}
+.logo-secondary-3{background-color: #ffffff;}
+
+/*
+ul {
+    margin: 20px;
+}
+*/
+
+h4 {
+	
+	padding-bottom: 15px;
+	
+	
+}
+
+li {
+	
+	
+	list-style-type: none;
+}
+
+
