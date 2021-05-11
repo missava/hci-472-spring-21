@@ -21,14 +21,15 @@ html {
 
 .barLogo {
 	
-	
-	width:65px;
-	height: 32.708px;
-	
+
 
 	
 }
 
+.bg-light {
+	
+	background-color: #ffffff !important;
+}
 
 
 .mainLogo {
