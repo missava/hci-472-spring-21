@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+html {
+	
+	font-family: 'Frank New', sans-serif;
+}
+
+.bg-fluid {background-color: #d3f6ff;}
+
+.deco {
+	
+	padding: 50px 50px;
+	border-bottom: 1px solid lightgray;
+	
+	
+	
+	
+}
+
+
+.barLogo {
+	
+
+
+	
+}
+
+.bg-light {
+	
+	background-color: #ffffff !important;
+}
+
+
+.mainLogo {
+
+	
+	
+}
+
+
+.bg-yellow {
+	
+	
+	background-color:	#f6d300;
+}
+
+
+.logo-primary {background-color: #262262;}
+.logo-primary-2 {background-color: #8DC63F;}
+.logo-secondary-1{background-color: #000000;}
+.logo-secondary-2{background-color: #a7a9ac;}
+.logo-secondary-3{background-color: #ffffff;}
+
+/*
+ul {
+    margin: 20px;
+}
+*/
+
+h4 {
+	
+	padding-bottom: 15px;
+	
+	
+}
+
+li {
+	
+	
+	list-style-type: none;
+}
+
+
+
+.scrollspy-example {
+  position: relative;
+  height: 100%;
+
+/*  overflow: auto;*/
+	overflow-y: scroll;
+	
+}
+
+
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #343a40;;
+    border-color: #343a40;
+}
+
+.page-link{
+  color: #343a40;
+}
