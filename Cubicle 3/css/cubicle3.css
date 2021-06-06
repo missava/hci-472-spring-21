@@ -1,0 +1,155 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+body {
+	
+font-family: frank-new, sans-serif;
+font-weight: 400;
+font-style: normal;
+
+}
+
+/*adjusting brand icon size*/
+
+.logo {	
+	width: 75%;
+}
+
+
+/*navbar custom colors*/
+.bg-nav {
+	
+	background-color:  #ffffff;
+	color: #262262;
+}
+
+/*override default nav link color*/
+
+.nav-link active{
+	
+	color: #ffcc00 !important;
+}
+
+
+
+/*banner across all*/
+.banner-main {
+	
+	background-color: #ffffff;
+	
+	padding-top: 40px;
+
+	
+}
+
+.logo-main {
+	
+	width: 75%;
+}
+
+.sample2 {
+	
+	width: 65%;
+	
+}
+
+section:nth-child(odd) {
+	
+	background-color: #ececec;
+}
+
+
+section:nth-child(even) {
+	
+	background-color: #ffffff;
+}
+
+
+/*work section*/
+
+.work-section {
+	
+	display: flex;
+	flex-flow:wrap;
+	margin: 1em auto;
+	width: 100%;
+	justify-content: space-around;
+	
+	padding: 10px;
+
+	
+	
+}
+
+.client-item {
+	flex: 1 0 33%;
+	margin: 5px;
+	text-align: center;
+	
+	
+	
+}
+
+
+
+footer {
+	
+	background-color: #ffffff;
+
+	color: #262262;
+	font-size: .75rem;
+	box-shadow: 0.00px 1.00px 4px 0px rgba(0,0,0,0.37);
+}
+
+
+.footer-logo {
+	
+	width: 65%;
+	
+	
+}
+
+nav {
+	
+	box-shadow: 0.00px 1.00px 4px 0px rgba(0,0,0,0.37);	
+	
+	
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("../images/slanted-menu-bar.png") !important;
+}
+
+
+
+/*organize responsiveness*/
+
+@media screen and (max-width: 768px) {
+	
+	.sample,
+	.sample2,
+	.client-item
+	{
+		
+		overflow-y:visible;
+	}
+	
+
+		
+	
+	.footer-logo {
+		
+		width: 50%;
+	}
+	
+	
+	
+}
+
+
+
+
+
+
