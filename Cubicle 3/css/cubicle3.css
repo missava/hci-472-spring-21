@@ -124,6 +124,12 @@ nav {
 
 
 
+figcaption {
+	
+	
+	font-size: .5rem;
+}
+
 /*organize responsiveness*/
 
 @media screen and (max-width: 768px) {
@@ -145,7 +151,14 @@ nav {
 	}
 	
 	
+	.sample2 {
+		
+		width: 75%;
+/*		visibility: hidden;*/
+		
+	}
 	
+
 }
 
 
